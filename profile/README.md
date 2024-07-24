@@ -1,6 +1,6 @@
 # Foxbiz Software Pvt. Ltd.
 
-![Foxbiz Logo](https://www.foxbiz.io/assets/logo.png)
+![Foxbiz Logo](./foxbiz_text.png)
 
 Welcome to the official GitHub profile of **Foxbiz Software Pvt. Ltd.** We are dedicated to providing advanced POS software solutions tailored for various businesses.
 
@@ -8,7 +8,10 @@ Welcome to the official GitHub profile of **Foxbiz Software Pvt. Ltd.** We are d
 
 ### Foxbiz POS
 
-![Foxbiz POS](https://www.foxbiz.io/assets/pos_screenshot.png)
+<div style="display: flex; flex-direction: row;">
+    <img src="./android-l.png" alt="Foxbiz POS Screenshot 1" style="height: 200px; margin-right: 10px;">
+    <img src="./android-p.png" alt="Foxbiz POS Screenshot 2" style="height: 200px;">
+</div>
 
 Foxbiz POS is a feature-rich point-of-sale system designed to streamline business operations with the following features:
 
@@ -51,15 +54,13 @@ For more information, visit our [official website](https://www.foxbiz.io) or rea
 
 Stay connected and follow us on our social media channels for the latest updates:
 
-- [LinkedIn](https://www.linkedin.com/company/foxbizsoftware)
-- [Twitter](https://twitter.com/foxbizsoftware)
-- [Facebook](https://www.facebook.com/foxbizsoftware)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/foxbizsoftware)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/foxbiz.io)
+
 
 ## Repository Overview
 
 Explore our repositories to find the source code for our products, documentation, and other resources.
-
-![Repository Screenshot](https://www.foxbiz.io/assets/repo_screenshot.png)
 
 We welcome contributions from the community. If you have suggestions, find any issues, or want to contribute, please open an issue or submit a pull request.
 
@@ -70,5 +71,3 @@ Our projects are licensed under the MIT License. For more details, refer to the 
 ---
 
 Thank you for visiting our GitHub profile. We are excited to collaborate with you and improve our products together.
-
-![Footer Image](https://www.foxbiz.io/assets/footer_image.png)
