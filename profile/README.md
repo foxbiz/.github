@@ -9,8 +9,8 @@ Welcome to the official GitHub profile of **Foxbiz Software Pvt. Ltd.** We are d
 ### Foxbiz POS
 
 <div style="display: flex; flex-direction: row;">
-    <img src="./android-l.png" alt="Foxbiz POS Screenshot 1" style="height: 200px; margin-right: 10px;">
-    <img src="./android-p.png" alt="Foxbiz POS Screenshot 2" style="height: 200px;">
+    <img src="./android-l.png" alt="Foxbiz POS Screenshot 1" style="height: 300px; margin-right: 10px;">
+    <img src="./android-p.png" alt="Foxbiz POS Screenshot 2" style="height: 300px;">
 </div>
 
 Foxbiz POS is a feature-rich point-of-sale system designed to streamline business operations with the following features:
