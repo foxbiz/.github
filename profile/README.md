@@ -54,8 +54,8 @@ For more information, visit our [official website](https://www.foxbiz.io) or rea
 
 Stay connected and follow us on our social media channels for the latest updates:
 
-[![@FoxbizSoftware](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/foxbizsoftware)
-[![@foxbiz.io](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/foxbiz.io)
+[![@FoxbizSoftware](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge?text=@FoxbizSoftware&logo=X&logoColor=white)](https://twitter.com/foxbizsoftware)
+[![@foxbiz.io](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&text=@foxbiz.io&logo=instagram&logoColor=white)](https://instagram.com/foxbiz.io)
 
 
 ## Repository Overview
